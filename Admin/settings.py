@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-z@@zzp@c^z#_p!f^t-uut$^((5(!lfft7-@v%d#rxn-^-@jmp3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://azeezdjango.herokuapp.com/login/?next=/',
+ALLOWED_HOSTS = ['https://azeezdjango.herokuapp.com',
                  'localhot',
                  '127.0.0.1']
 
